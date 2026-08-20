@@ -8,3 +8,4 @@ __pycache__/
 data/raw/IKEA_product_catalog.csv
 
 data/processed/ikea_cleaned.csvdata/processed/ikea_cleaned.csv
+data/processed/ikea_cleaned.csv
